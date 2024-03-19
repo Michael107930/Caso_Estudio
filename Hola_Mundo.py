@@ -1,1 +1,5 @@
 print("HOLA MUNDO")
+print("Que tal")
+print("Que tal")
+print("Que tal")
+print("Que tal")
